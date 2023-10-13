@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "name": "Jane",
+      "title": "Lorem Ipsum",
+      "description": "Lorem Ipsum ",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "comment": "Lorem Ipsum",
+      "name": "Lorem Ipsum",
+      "postId": "1",
+      "id": 1
+    }
+  ]
+}
